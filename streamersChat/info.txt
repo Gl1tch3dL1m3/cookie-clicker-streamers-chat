@@ -1,0 +1,12 @@
+{
+    "Name": "Streamer's Chat",
+    "ID": "streamers chat",
+    "Author": "glitchedlime",
+    "Description": "This incredibly useful mod will guarantee you 15 (or more) minutes of fame. This mod doesn't disable Steam achievements. Golden cookies should appear above the chat! :)",
+    "ModVersion": 1.31,
+    "GameVersion": 2.04,
+    "Date": "14/09/2025",
+    "Dependencies": [],
+    "Disabled": 0,
+    "AllowSteamAchievs": 1
+}
